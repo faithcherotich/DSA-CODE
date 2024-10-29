@@ -1,0 +1,14 @@
+Instance methods: Used to access or modify the object state.
+If we use instance variables inside a method, such methods are called instance methods. 
+It must have a self parameter to refer to the current object.
+
+__int__method is a  constructor
+its initialize the attribute
+
+__str__method
+used to define a "string" representation of an object
+
+getters and setters 
+
+getters allows access to a private attribute
+setters use to set or update the value of an object attribute
